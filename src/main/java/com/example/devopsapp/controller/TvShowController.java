@@ -1,7 +1,7 @@
 package com.example.devopsapp.controller;
 
-import com.example.actions.model.TvShow;
-import com.example.actions.service.TvShowService;
+import com.example.devopsapp.entity.TvShow;
+import com.example.devopsapp.service.TvShowService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
